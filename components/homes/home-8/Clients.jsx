@@ -9,7 +9,7 @@ export default function Clients() {
       <div className="row justify-content-center">
           <div className="col-xl-7 col-lg-8">
             <div className="title-area text-center">
-              <h2 className="sec-title text-smoke">
+              <h2 className="sec-title ">
                 My Tech Stack
               </h2>
             </div>
