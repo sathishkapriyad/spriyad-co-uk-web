@@ -114,6 +114,7 @@ export default function Header1() {
               <div className="row align-items-center justify-content-between">
                 <div className="col-auto">
                   <div className="header-logo">
+                
                     <Link scroll={false} href="/">
                       <Image
                         width={86}
