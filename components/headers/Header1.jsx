@@ -117,9 +117,9 @@ export default function Header1() {
                 
                     <Link scroll={false} href="/">
                       <Image
-                        width={86}
-                        height={24}
-                        src="/assets/img/logo.svg"
+                        width={200}
+                        height={50}
+                        src="/assets/img/logo.png"
                         alt="logo"
                       />
                     </Link>
