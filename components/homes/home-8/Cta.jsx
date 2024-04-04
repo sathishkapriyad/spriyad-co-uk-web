@@ -11,13 +11,13 @@ export default function Cta() {
             <div className="title-area mb-xl-0 mb-40">
               <h2 className="sec-title">Let’s Work Together</h2>
               <p className="sec-text mt-30 mb-n2">
-                We are digital agency that helps businesses develop immersive
-                and engaging user experiences
+              Ready to take your digital experiences to new heights? Connect with me for a partnership that merges creativity with technical mastery. 
+              Together, we'll craft digital solutions that not only meet but exceed your expectations.
               </p>
               <p className="copyright-text mt-4 mb-3">
                 Copyright © 2024
                 <a href="https://themeforest.net/user/ib-themes/portfolio">
-                  ib-themes
+                  spriyad.co.uk
                 </a>
               </p>
               <div className="social-btn style3 justify-content-xl-start justify-content-center">
