@@ -15,7 +15,7 @@ export default function Footer7() {
               <p className="copyright-text">
                 <a href="tel:1800123654987"> +44 7392 9464 87 </a>
                 <br />
-                <a href="mailto:frisk.agency@mail.com">projects@spriyad.co.uk</a>
+                <a href="mailto:frisk.agency@mail.com">spriyad.infor@gmail.com</a>
               </p>
             </div>
           </div>

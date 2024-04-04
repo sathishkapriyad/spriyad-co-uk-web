@@ -95,7 +95,7 @@ export default function Header1() {
             <a href="tel:447392946487">+44 7392 9464 87 </a>
             </h6>
             <h6>
-            <a href="mailto:projects@spriyad.co.uk">projects@spriyad.co.uk</a>
+            <a href="mailto:projects@spriyad.co.uk">spriyad.infor@gmail.com</a>
             </h6>
           </div>
           <div className="social-btn style3">
