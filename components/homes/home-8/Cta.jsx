@@ -17,7 +17,7 @@ export default function Cta() {
               <p className="copyright-text mt-4 mb-3">
                 Copyright © 2024
                 <a href="https://themeforest.net/user/ib-themes/portfolio">
-                  spriyad.co.uk
+                  &nbsp;spriyad.co.uk
                 </a>
               </p>
               <div className="social-btn style3 justify-content-xl-start justify-content-center">
