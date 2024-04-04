@@ -74,8 +74,8 @@ export default function Header1() {
           <div className="mobile-logo">
             <Link scroll={false} href="/">
               <Image
-                width={86}
-                height={24}
+                width={200}
+                height={50}
                 src="/assets/img/logo.png"
                 alt="Ovation"
               />
